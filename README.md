@@ -7,7 +7,7 @@ Nullmax Internship Summary:
 
 Other projects:
 
-- [x] [MobileNet-SSD](projects/mobile_ssd.md)
-- [ ] Bank receipt OCR (*To do*)
+- [x] [MobileNet-SSD](Projects/Mobilenet_SSD/mobile_ssd.md)
+- [x] [Bank receipt OCR](Projects/Cheque_ocr/setup.md)
 - [ ] SSD optimization (*To do*)
 
