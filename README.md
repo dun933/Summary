@@ -3,7 +3,7 @@
 Nullmax Internship Summary:
 
 - [x] [Stop line detecting and tracking](Nullmax/stop_line.md)
-- [ ] CNN model pruning (*To do*)
+- [x] [CNN model pruning](Nullmax/pruning/A_Survey_of_Network_Pruning_II.md)
 
 Other projects:
 
